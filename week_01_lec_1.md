@@ -30,7 +30,4 @@ Each category is further divided into subcategories to address specific company 
 - Pre-built Solutions: Offers ready-to-use applications and workflows
 - Customization: Ability to tailor solutions to specific business needs
 ## ServiceNow Simple
-ServiceNow Simple is a YouTube channel dedicated to explaining ServiceNow concepts in a straightforward manner. Their tagline is:
-~~~
-ServiceNow Simple: Where we're all about answering ServiceNow-related questions in a manner that's simple and easy to understand.
-~~~
+ServiceNowSimple is a YouTube channel dedicated to explaining ServiceNow concepts in a straightforward manner.
